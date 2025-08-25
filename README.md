@@ -52,4 +52,4 @@ Sou estudante de Desenvolvimento de Sistemas e estou aprendendo sobre GitHub, pr
 ## 📫 Como me encontrar
 
 [![LinkedIn](www.linkedin.com/in/pietro-asseiro-a1b3a435b)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![GitHub](GGodinho0)
